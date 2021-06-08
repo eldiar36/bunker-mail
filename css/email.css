@@ -107,9 +107,6 @@ table.body-wrap .subtitle-box td table tr td {
     padding: 48px 21px 25px 21px;
 }
 
-table.body-wrap .museum .btn-wrap {
-    padding: 50px 0 40px 0;
-}
 
 table.body-wrap .description {
     padding: 23px 0 23px 0;
@@ -137,7 +134,9 @@ table.body-wrap .description .right-col {
 table.body-wrap .btn-wrap {
     padding: 0 0 40px 0;
 }
-
+table.body-wrap .museum .btn-wrap {
+    padding: 50px 0 40px 0;
+}
 table.body-wrap .white .prod img {
     height: 248px;
 }
