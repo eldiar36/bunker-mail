@@ -160,7 +160,9 @@ table.body-wrap .white .prod p {
     font-weight: 700;
     color: #1c1c1c;
 }
-
+.banner img {
+    border-radius: 10px;
+}
 a {
     text-decoration: none;
 }
@@ -405,7 +407,8 @@ ul li {
         width: auto !important;
     }
     table.body-wrap .white .prod img {
-        height: auto;
+        height: 370px;
+        width: 100%;
     }
     table.body-wrap .white .title {
         font-size: 24px;
